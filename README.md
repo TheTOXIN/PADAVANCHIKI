@@ -26,17 +26,25 @@
 # РАЗБОР РЕПОЗИТОРИЯ:
 + **PROJECT** - проект игры, там находится её актуальный код и ссылка на скачивание
 + **TASKS** - папка с задачами
-+ **WORK** - папка решениями задач
++ **WORK** - папка c решениями задач
 + **INFO** - сборка полезной информации и ресурсов для обучения
 + **DEVS** - все участники проекта
 
 # ССЫЛКИ:  
 > **Мой ВК** - [тык](https://vk.com/the_toxin)
+
 > **Анкета** - [щелк](https://goo.gl/forms/HNomytIjL8Yvsbs43)
+
 > **Облако** - [тыц](https://drive.google.com/drive/folders/1guVBcEAUpcCKaHXmJeSCANt6JDV-w6u_?usp=sharing)
+
 > **Телеграмм** - [клац](https://t.me/joinchat/GHP3axBMQFCLMUiLwftHFw)
+
 > **Видосы** - [клик](https://www.youtube.com/watch?v=kRcbYLK3OnQ&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+
 > **Учебник** - [курлык](https://vk.com/wall-54530371_57835?hash=1b7273a91d84f36995)
+
 > **VisualStudio** - [шмыг](https://www.visualstudio.com/ru/downloads/)
+
 > **SFML** - [тыдыщ](https://www.sfml-dev.org/)
+
 > **ИГРА** - [бум](https://drive.google.com/open?id=1A9T-ntJcv_WpyGXL9oB5hfvr0MW_I50O)
